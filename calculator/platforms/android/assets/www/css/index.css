@@ -1,0 +1,79 @@
+﻿.listbarword {
+	
+	text-align: right; 
+	height: 200px; 
+	white-space: normal;
+	font-family: Microsoft JhengHei!important;
+
+}
+.displayword{
+	font-weight: bold !important;
+	font-size: 3em!important;
+	 line-height:200px;
+}
+.displayresult{
+	font-weight: bold !important;
+	font-size: 2em!important;
+	margin-top: -50px;
+	color: #B3B3B3;
+}
+
+#newcontent {
+	width: 100%;
+	padding: 0px;
+    margin: 0;
+}
+.horizontal{
+	 float: left;
+	 width: calc(100%/4);
+	margin:0;
+	border:0;
+	padding:0;
+}
+.horizontal2{
+	 float: left;
+	 width: calc(100%/4 - 10px);
+	margin:0;
+	border:0;
+	padding:0;
+}
+.horizontal3{
+	 float: left;
+	 width: 10px;
+	margin:0;
+	border:0;
+	padding:0;
+}
+.seebutton{
+	height:400px;
+}
+
+.layout1 {
+
+  font-size:2em!important;
+  color: white;
+ margin-left: 0px!important;
+
+  height: 115px;
+   line-height:115px;
+	text-align: center;
+  background-color: #1B1B1B;
+}
+.layout2 {
+
+  font-size:1.5em!important;
+  color: white;
+ margin-left: 0px!important;
+
+  height: 92px;
+   line-height:92px;
+	text-align: center;
+  background-color: #404040;
+}
+.layout3 {
+	height: 460px;
+  background-color: #5BB75B;
+}
+.rightpanel{
+	height: calc(100% - 200px);
+}
