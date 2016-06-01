@@ -1,7 +1,7 @@
 --
 本計算機apk作者為 ckchia
 --
-
+apk下載網址: http://cloud.ccu.edu.tw/?link=38a8XbEy9t
 
 使用方法:
 其基本介面與sony的計算機類似
